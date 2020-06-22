@@ -1,7 +1,7 @@
 # Projet IA : CNN
 Convolutional Neural Networks
 
-#Membres du groupe :
+# Membres du groupe :
 CLERVILLE Mélinda  
 LAROCHE Rémy  
 LOUBIOU Rémi  
